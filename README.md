@@ -13,7 +13,7 @@ To illustrate the full picture, I wanted to show results for any pitcher desired
 
 ## Results
 The results were quite fascinating. When looking at different pitchers and their sequences, you can see how they find success at such a high level. One example of a pitcher I found very intriguing was Chris Sale. He is known for his nasty slider. I wanted to see how well it followed up his fastball. The results explained everything. 
-![Chris Sale Tunneling]("C:\Users\Jophy\OneDrive\Pictures\Screenshots 1\Screenshot 2026-01-15 213311.png")
+![Chris Sale Tunneling]("/Screenshot%202026-01-15%20213311.png")
 As you can see, the pitches are very closely clustered together. 
 
 Another pitcher I looked at was Logan Gilbert. He was a pitcher who saw a lot of success this season. He throws a variety of pitches, but what I was interested in was his fastball and splitter sequencing. With a lot of pitchers that throw a good changeup or splitter, you are told to see it down. I wanted to see if that really helps at all.
