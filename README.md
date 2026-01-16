@@ -17,7 +17,7 @@ The results were quite fascinating. When looking at different pitchers and their
 As you can see, the pitches are very closely clustered together. 
 
 Another pitcher I looked at was Logan Gilbert. He was a pitcher who saw a lot of success this season. He throws a variety of pitches, but what I was interested in was his fastball and splitter sequencing. With a lot of pitchers that throw a good changeup or splitter, you are told to see it down. I wanted to see if that really helps at all.
-![Logan Gilbert Tunneling]("C:\Users\Jophy\OneDrive\Pictures\Screenshots 1\Screenshot 2026-01-15 214124.png")
+![Logan Gilbert Tunneling](./Screenshot%202026-01-15%20214124.png)
 Here, you can see that his splitter does appear a bit lower than his fastball at the tunnel. Now, this isn't to say that looking for this at the plate will make a huge difference, as he throws many different pitches. However, if you take a deeper dive, his fastball is the pitch he uses the most to set up his splitter. His slider is the only other pitch he throws consistently before his splitter. So, if you are a hitter who struggled with the splitter in an earlier at-bat, and you just took a fastball, now it may be helpful to try to see it down.
 
 ## Challenges
